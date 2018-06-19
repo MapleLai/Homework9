@@ -9,7 +9,7 @@
 + [演示视频](https://pan.baidu.com/s/1UCd-Qk4OLCmzgr4dTmVoyw)
 
 ## 介绍
-+ 在游戏商店下载Tank！Tutorial游戏项目，但只会用到里面的一些模型，游戏的运行全部由代码控制。完整的代码可以在Scripts文件夹里找到，这里说一下如果想成功完成游戏，需要哪些代码以外的操作。
++ 在游戏商店下载Tank！Tutorial游戏项目，但只会用到里面的一些模型，游戏的运行全部由代码控制。完整的代码可以在Scripts文件夹里找到，这里只说一下如果想完成游戏，需要哪些代码以外的操作。
 ![Tanks](https://raw.githubusercontent.com/MapleLai/Homework9/master/Screenshot/Tanks.jpg)
 
 + 在项目的Models文件夹里找到Tank和Shell的模型，制作成Player、Enemy和Bullet预制。
