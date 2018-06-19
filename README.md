@@ -29,4 +29,4 @@
 ![SceneControler](https://raw.githubusercontent.com/MapleLai/Homework9/master/Screenshot/Scene%20Controller.png)
 ![Factory](https://raw.githubusercontent.com/MapleLai/Homework9/master/Screenshot/Factory.png)
 
-+ 之后就是运行游戏啦，由于制作的比较粗糙，坦克的移动还有子弹的射击轨道其实都有很大的改进空间，变得更加自然。游戏的演示视频在这篇文章的上面，别漏看了！
++ 之后就是运行游戏啦，由于制作的比较粗糙，坦克的移动还有子弹的射击轨道其实都有很大的改进空间，可以变得更加自然。游戏的演示视频在这篇文章的上面，别漏看了！
