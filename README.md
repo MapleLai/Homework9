@@ -25,6 +25,6 @@
 + 在Tank的预制中添加Enemy标签（很重要）、刚体、碰撞框、NavMeshAgent和Enemy脚本。
 ![Tank](https://raw.githubusercontent.com/MapleLai/Homework9/master/Screenshot/Tank.jpg)
 
-+ 最后就是把SceneControler脚本和Factory脚本添加到主摄像机中，再给Player、Tank和Bullet拖到相应GameObject变量框中。如下图所示：
++ 最后就是把SceneControler脚本和Factory脚本添加到主摄像机中，再把Player、Tank、Bullet和爆炸效果拖到相应GameObject变量框中。如下图所示：  
 ![SceneControler](https://raw.githubusercontent.com/MapleLai/Homework9/master/Screenshot/Scene%20Controller.png)
 ![Factory](https://raw.githubusercontent.com/MapleLai/Homework9/master/Screenshot/Factory.png)
