@@ -15,7 +15,7 @@
 + 在项目的Models文件夹里找到Tank和Shell的模型，制作成Player、Enemy和Bullet预制。
 ![prefabs](https://raw.githubusercontent.com/MapleLai/Homework9/master/Screenshot/Prefabs.png)
 
-+ 把Prefabs文件里的把LevelArt预制拖到场景中，由于我写代码时忘记添加Player，所以后来运行时我直接拖了一个Player进场景中，这样我们就得到了一张地图。接着通过Navigation窗口改变地图中各构成的Navigation属性，分成可以行走的Ground、Dune，以及不可以行走的其他元素。这个步骤只能一个一个地改，比较繁琐。Navigation属性如下图所示：
++ 把Prefabs文件里的LevelArt预制拖到场景中，由于我写代码时忘记添加Player，所以后来运行时我直接拖了一个Player进场景中，这样我们就得到了一张地图。接着通过Navigation窗口改变地图中各构成的Navigation属性，分成可以行走的Ground、Dune，以及不可以行走的其他元素。这个步骤只能一个一个地改，比较繁琐。Navigation属性如下图所示：
 ![walkable](https://raw.githubusercontent.com/MapleLai/Homework9/master/Screenshot/walkable.png)
 ![unwalkable](https://raw.githubusercontent.com/MapleLai/Homework9/master/Screenshot/unwalkable.png)
 
